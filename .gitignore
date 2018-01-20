@@ -323,4 +323,5 @@ ASALocalRun/
 NelnetProject/Web/Nelnet_UI/build/**
 **/node_modules/**
 **/.vs/**
+**/obj/**
 **/bin/**
