@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace UI.Controllers
+namespace Web.Controllers
 {
     public class RoutingController : Controller
     {
