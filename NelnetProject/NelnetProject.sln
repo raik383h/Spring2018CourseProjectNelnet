@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engines", "Engines\Engines.csproj", "{1F1BA16B-89FE-4F6F-B6F6-275431658968}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Engines", "Engines\Engines.csproj", "{1F1BA16B-89FE-4F6F-B6F6-275431658968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accessors", "Accessors\Accessors.csproj", "{04D7B232-16FD-4F19-AA48-45F5FCDCB7B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Accessors", "Accessors\Accessors.csproj", "{04D7B232-16FD-4F19-AA48-45F5FCDCB7B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{857480CB-0E9C-495A-81C5-DA15CC4B1CD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{857480CB-0E9C-495A-81C5-DA15CC4B1CD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{48E3F218-2E13-4901-82EC-4D3C7EEA55DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{48E3F218-2E13-4901-82EC-4D3C7EEA55DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -126,5 +126,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67DC68E9-FCC6-4D11-B613-83E25066C4F2}
 	EndGlobalSection
 EndGlobal
